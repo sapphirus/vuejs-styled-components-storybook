@@ -1,11 +1,6 @@
 {
   "presets": [
-    [
-      "env",
-      {
-        "modules": false
-      }
-    ],
-    "vue"
+    "vue",
+    "@babel/preset-env"
   ]
 }
